@@ -32,7 +32,8 @@ export default function ProductList() {
     <div className="bg-pink-100 h-screen p-12">
       <h1 className="text-gray-700 text-left"> Snipe Interview Assignment</h1>
 
-      <br></br><br></br>
+      <br></br>
+      <br></br>
 
       {products.map((x) => (
         <div key={x.id} className="bg-gray-500 p-4 rounded-lg flex mb-6">
