@@ -1,5 +1,11 @@
 # Snipe Assignment (React - R2)
 
+### Tech Stack Used 
+FrontEnd :  ![ReactJs](https://img.shields.io/badge/-React-000?&logo=React)
+            ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
+            ![Tailwind CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
+            ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+
 Simply Fork the Project 
 
 `
@@ -19,13 +25,13 @@ Open : http://127.0.0.1:5173/
 
 ## As the project is build with React Vite TailWind CSS
 
-npm create vite@latest snipe -- --template react
-yes
-choose react
-choose js
-cd snipe
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
+$ npm create vite@latest snipe -- --template react <br>
+$ yes <br>
+$ choose react <br>
+$ choose js <br>
+$ cd snipe <br>
+$ npm install -D tailwindcss postcss autoprefixer <br>
+$ npx tailwindcss init -p <br>
 
 `Above all are for refernces ! How to create Vite app`
 
