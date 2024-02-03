@@ -9,9 +9,9 @@ TechStack : ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoCol
 
 Simply Fork the Project
 
-`    npm i
-    <br>
-    npm run dev`
+`npm i `
+`npm run dev `
+
 This Should work !
 
 <br>
@@ -41,3 +41,5 @@ $ npx tailwindcss init -p <br>
 
 <br>
 <hr>
+
+This Project is a part of Snipe Assignment 2022 Program. Submitted by [Soham Samanta](https://www.linkedin.com/in/soham-samanta2000/) <br>
